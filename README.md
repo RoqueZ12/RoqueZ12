@@ -25,7 +25,7 @@ Gran interés en el desarrollo de páginas web responsive y el campo de las apli
 *   [Usuarios GitHub con Api](https://roquez12.github.io/CHALLENGE_REACT_2/) - Se uso multiples Api endpoints, como Github REST API para regresar informacion del usuario.
 *   [Codigo QR](https://roquez12.github.io/CHALLENGE_JS_4/) - Aplicacion para convertir un enlace a codigo QR, tanto para descargar como compartir.
   
-## 📫 Reach me at juniorrxque@gmail.com <br>
+## 📫 Contacto:  juniorrxque@gmail.com <br>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/RoqueZ12/github-profile-views-counter">
