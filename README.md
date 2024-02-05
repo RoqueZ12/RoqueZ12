@@ -1,5 +1,5 @@
 # Hi, I'm Junior 👋
-He logrado resolver Challenges sobre Web Developer, JavaScript Developer, Frontend Developer, usando tecnologías como HTML, CSS, SASS, JavaScript, React, Apis para crear más de 30 repositorios en mi GitHub.
+He logrado resolver Challenges sobre Web Developer, JavaScript Developer, Frontend Developer, usando tecnologías como HTML, CSS, SASS, JavaScript, React, Apis.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=RoqueZ12&show_icons=true&count_private=true"><img
