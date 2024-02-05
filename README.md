@@ -12,6 +12,9 @@ Gran interés en el desarrollo de páginas web responsive y el campo de las apli
 
 ## 🛠 Technology Stack
 *   Java/React/ languages
+*   https://img.shields.io/badge/JavaScript-yellow
+
+
 *   Html, css
 *   GitHub/
 
